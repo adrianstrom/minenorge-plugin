@@ -1,0 +1,26 @@
+name: MineNorge-Extension
+version: 1.0
+api-version: 1.13
+author: TheDudeAdrian
+main: me.thedudeadrian.minenorge.Main
+description: Extension av MineNorge-Main
+
+commands:
+  godnatt:
+    aliases: [natta]
+    description: god natt
+    
+  tilbake:
+    aliases: [back]
+    description: back
+    
+  sov:
+    aliases: [sove]
+    description: god natt
+    
+  bet:
+    aliases: [vedd]
+    description: vedde
+    
+  by:
+    description: by
